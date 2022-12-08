@@ -32,3 +32,9 @@ ex13 : Jeu de la devinette (trouver un nombre entre 1 et 100)
 ex16 : Validation d'un numéro de carte bleue
 
 ex17 : Génération d'un numéro "valide" de carte bleue
+
+ex18 : Somme de deux matrices
+
+ex19 : Produits de deux matrices
+
+ex20 : Tri à bulle d'un tableau d'entiers
