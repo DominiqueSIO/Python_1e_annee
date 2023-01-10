@@ -40,3 +40,11 @@ ex19 : Produits de deux matrices
 ex20 : Tri à bulle d'un tableau d'entiers
 
 ex21 : Affichage de l'arborescence d'un système de fichiers
+
+ex22 : Test de primalité d'un nombre entier
+
+ex23 : Affichage du n premiers nombres premiers
+
+ex24 : Calcul de la reproduction de lapin (Suite de Fibonacci)
+
+ex25 : Décomposition d'un nombre en produit de facteurs premiers
